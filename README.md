@@ -47,11 +47,10 @@ Game Mechanics We Used
 
 - Move along the track
 - Rotate forwords and backwards
-- Increase speed up when drive over "Speed Ups"
-- Decrease Speed when bump into "Slow Downs"
-- Pick up packages when drive over them
-- Deliver package when drive over delivery spot
-- Change car color to show status
+- Ability to speed up
+- Particle effects that only play when we're touching ground
+- Finish line that start level
+- Crash detection which restarts the level
 
 Game Design
 
