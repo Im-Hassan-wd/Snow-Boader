@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Delivery Driver</h1>
+<h1 align="center">Snow Boarder</h1>
 
 <div align="center">
    <h2>Interacting with unity engine...</h2>
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    Delivery Driver video Game || Test RUN
+    Snow Boarder || Test RUN
   </h3>
 </div>
 
@@ -54,9 +54,9 @@ Game Mechanics We Used
 
 Game Design
 
-- Player experince: Relaxing
-- Core Mechanics: Drive over pickups
-- Game loops: Find and delever all the packages to win
+- Player experince: Smooth, Relaxing, 1980 action stunt man
+- Core Mechanics: Don't crash
+- Game loops: Reach the end to win
 
 ## Acknowledgements
 
@@ -66,4 +66,4 @@ Complete C# Unity Game Developer 2D [GameDev.tv](https://www.gamedev.tv/p/unity-
 
 By GameDev.tv Team
 
-Instructors: Rick Davidson, Gary pettie
+Instructors: Rick Davidson, Ben, Gary pettie
