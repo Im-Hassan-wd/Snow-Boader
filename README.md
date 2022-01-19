@@ -34,12 +34,6 @@ Gameplay Overview screen
 - Smooth track with jumps
 - Particle Effects
 
-<h4> You're delivering tasty donuts to game development instructors</h4>
-<h4>whose wives are currently out of the house</h4>
-<h4>and won't know that the game development instuctors is eating junk food</h4>
-<h4>when he should be eating roasted kale or some other sort of appropriate for</h4>
-<h4>someone your age "tyoe of snack".</h4>
-
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
@@ -51,8 +45,8 @@ Gameplay Overview screen
 
 Game Mechanics We Used
 
-- Driving car forwards and backwards
-- Turning car left and right
+- Move along the track
+- Rotate forwords and backwards
 - Increase speed up when drive over "Speed Ups"
 - Decrease Speed when bump into "Slow Downs"
 - Pick up packages when drive over them
